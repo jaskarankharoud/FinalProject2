@@ -1,0 +1,1 @@
+This is a simple Express.js backend that demonstrates handling GET and POST requests. It includes two routes: one for the home page and another for a form. 
